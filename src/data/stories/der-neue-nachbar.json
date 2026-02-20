@@ -1,0 +1,23 @@
+{
+  "id": "20",
+  "slug": "der-neue-nachbar",
+  "title": "The New Neighbour",
+  "level": "A1",
+  "category": "story",
+  "sentences": [
+    { "de": "Ein neuer Nachbar zieht in das Haus ein.", "en": "A new neighbour is moving into the house." },
+    { "de": "Er heißt Max und kommt aus Hamburg.", "en": "His name is Max and he comes from Hamburg." },
+    { "de": "Max klingelt an der Tür von Klara.", "en": "Max rings Klara's doorbell." },
+    { "de": "\"Hallo! Ich bin Ihr neuer Nachbar!\", sagt er.", "en": "\"Hello! I am your new neighbour!\" he says." },
+    { "de": "Klara lächelt und lädt ihn zum Kaffee ein.", "en": "Klara smiles and invites him in for coffee." },
+    { "de": "Sie reden eine Stunde lang und werden Freunde.", "en": "They talk for an hour and become friends." }
+  ],
+  "vocabulary": [
+    { "word": "der Nachbar", "article": "der", "type": "noun", "level": "A1", "meaning": "neighbour" },
+    { "word": "einziehen", "type": "verb", "level": "A2", "meaning": "to move in" },
+    { "word": "klingeln", "type": "verb", "level": "A1", "meaning": "to ring (doorbell)" },
+    { "word": "lächeln", "type": "verb", "level": "A1", "meaning": "to smile" },
+    { "word": "einladen", "type": "verb", "level": "A2", "meaning": "to invite" },
+    { "word": "der Freund", "article": "der", "type": "noun", "level": "A1", "meaning": "friend; boyfriend" }
+  ]
+}

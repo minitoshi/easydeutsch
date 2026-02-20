@@ -1,0 +1,23 @@
+{
+  "id": "4",
+  "slug": "frühling-gedicht",
+  "title": "Spring Poem: The Flowers Bloom",
+  "level": "A1",
+  "category": "poem",
+  "sentences": [
+    { "de": "Die Sonne scheint, der Himmel ist blau.", "en": "The sun shines, the sky is blue." },
+    { "de": "Die Blumen blühen im Garten.", "en": "The flowers bloom in the garden." },
+    { "de": "Die Vögel singen laut und schön.", "en": "The birds sing loudly and beautifully." },
+    { "de": "Das Gras ist wieder grün.", "en": "The grass is green again." },
+    { "de": "Kinder spielen draußen und lachen.", "en": "Children play outside and laugh." },
+    { "de": "Der Frühling ist die schönste Zeit.", "en": "Spring is the most beautiful time." }
+  ],
+  "vocabulary": [
+    { "word": "scheinen", "type": "verb", "level": "A1", "meaning": "to shine, to seem" },
+    { "word": "die Blume", "article": "die", "type": "noun", "level": "A1", "meaning": "flower" },
+    { "word": "blühen", "type": "verb", "level": "A2", "meaning": "to bloom, to blossom" },
+    { "word": "der Vogel", "article": "der", "type": "noun", "level": "A1", "meaning": "bird" },
+    { "word": "singen", "type": "verb", "level": "A1", "meaning": "to sing" },
+    { "word": "der Frühling", "article": "der", "type": "noun", "level": "A1", "meaning": "spring" }
+  ]
+}

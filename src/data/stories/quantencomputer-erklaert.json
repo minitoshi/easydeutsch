@@ -1,0 +1,23 @@
+{
+  "id": "18",
+  "slug": "quantencomputer-erklaert",
+  "title": "Quantum Computers Explained Simply",
+  "level": "B2",
+  "category": "science",
+  "sentences": [
+    { "de": "Ein normaler Computer arbeitet mit Bits, die entweder 0 oder 1 sein können.", "en": "A normal computer works with bits that can be either 0 or 1." },
+    { "de": "Ein Quantencomputer hingegen nutzt sogenannte Qubits.", "en": "A quantum computer, on the other hand, uses so-called qubits." },
+    { "de": "Dank der Quantenmechanik kann ein Qubit gleichzeitig 0 und 1 sein – dieses Phänomen nennt man Superposition.", "en": "Thanks to quantum mechanics, a qubit can be 0 and 1 at the same time – this phenomenon is called superposition." },
+    { "de": "Das ermöglicht es, bestimmte Berechnungen exponentiell schneller durchzuführen.", "en": "This makes it possible to perform certain calculations exponentially faster." },
+    { "de": "Quantencomputer könnten eines Tages die Kryptografie revolutionieren.", "en": "Quantum computers could one day revolutionise cryptography." },
+    { "de": "Allerdings sind sie noch sehr fehleranfällig und schwer zu bauen.", "en": "However, they are still very error-prone and difficult to build." }
+  ],
+  "vocabulary": [
+    { "word": "das Qubit", "article": "das", "type": "noun", "level": "C1", "meaning": "qubit (quantum bit)" },
+    { "word": "die Superposition", "article": "die", "type": "noun", "level": "C1", "meaning": "superposition" },
+    { "word": "gleichzeitig", "type": "adverb", "level": "B1", "meaning": "simultaneously, at the same time" },
+    { "word": "ermöglichen", "type": "verb", "level": "B1", "meaning": "to enable, to make possible" },
+    { "word": "die Kryptografie", "article": "die", "type": "noun", "level": "C1", "meaning": "cryptography" },
+    { "word": "fehleranfällig", "type": "adjective", "level": "C1", "meaning": "error-prone" }
+  ]
+}

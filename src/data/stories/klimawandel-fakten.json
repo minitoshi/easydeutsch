@@ -1,0 +1,24 @@
+{
+  "id": "8",
+  "slug": "klimawandel-fakten",
+  "title": "Climate Change: Facts Everyone Should Know",
+  "level": "B1",
+  "category": "science",
+  "sentences": [
+    { "de": "Die durchschnittliche Temperatur der Erde ist in den letzten hundert Jahren um etwa 1,2 Grad gestiegen.", "en": "The average temperature of the Earth has risen by about 1.2 degrees over the last hundred years." },
+    { "de": "Wissenschaftler sind sich einig, dass der Mensch die Hauptursache dafür ist.", "en": "Scientists agree that humans are the main cause of this." },
+    { "de": "Die Verbrennung von fossilen Brennstoffen wie Kohle und Öl setzt große Mengen CO₂ frei.", "en": "The burning of fossil fuels such as coal and oil releases large amounts of CO2." },
+    { "de": "Dieses Gas verstärkt den natürlichen Treibhauseffekt.", "en": "This gas intensifies the natural greenhouse effect." },
+    { "de": "Die Folgen sind extremere Wetterereignisse, steigende Meeresspiegel und der Rückgang von Eisgletschern.", "en": "The consequences are more extreme weather events, rising sea levels and the retreat of ice glaciers." },
+    { "de": "Um die schlimmsten Folgen zu vermeiden, müssen die globalen Emissionen drastisch reduziert werden.", "en": "To avoid the worst consequences, global emissions must be drastically reduced." }
+  ],
+  "vocabulary": [
+    { "word": "durchschnittlich", "type": "adjective", "level": "B1", "meaning": "average, on average" },
+    { "word": "der Wissenschaftler", "article": "der", "type": "noun", "level": "B1", "meaning": "scientist" },
+    { "word": "die Verbrennung", "article": "die", "type": "noun", "level": "B1", "meaning": "combustion, burning" },
+    { "word": "freisetzen", "type": "verb", "level": "B1", "meaning": "to release, to emit" },
+    { "word": "verstärken", "type": "verb", "level": "B1", "meaning": "to intensify, to amplify" },
+    { "word": "vermeiden", "type": "verb", "level": "B1", "meaning": "to avoid" },
+    { "word": "der Treibhauseffekt", "article": "der", "type": "noun", "level": "B1", "meaning": "greenhouse effect" }
+  ]
+}

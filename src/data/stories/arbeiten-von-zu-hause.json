@@ -1,0 +1,23 @@
+{
+  "id": "16",
+  "slug": "arbeiten-von-zu-hause",
+  "title": "Working from Home: Blessing or Curse?",
+  "level": "B1",
+  "category": "blog",
+  "sentences": [
+    { "de": "Seit der Pandemie arbeiten Millionen Deutsche von zu Hause aus.", "en": "Since the pandemic, millions of Germans have been working from home." },
+    { "de": "Für viele ist das Homeoffice ein Segen: kein langer Weg zur Arbeit, mehr Zeit für die Familie.", "en": "For many, working from home is a blessing: no long commute, more time for the family." },
+    { "de": "Andere hingegen kämpfen mit der Einsamkeit und der fehlenden Struktur.", "en": "Others, however, struggle with loneliness and the lack of structure." },
+    { "de": "Die Grenze zwischen Arbeit und Freizeit verschwimmt oft.", "en": "The boundary between work and leisure often blurs." },
+    { "de": "Experten empfehlen, feste Arbeitszeiten einzuhalten und einen eigenen Arbeitsplatz zu schaffen.", "en": "Experts recommend keeping fixed working hours and creating a dedicated workspace." },
+    { "de": "Die Zukunft wird wahrscheinlich ein hybrides Modell bringen: teils im Büro, teils zu Hause.", "en": "The future will probably bring a hybrid model: partly in the office, partly at home." }
+  ],
+  "vocabulary": [
+    { "word": "das Homeoffice", "article": "das", "type": "noun", "level": "A2", "meaning": "home office, working from home" },
+    { "word": "der Segen", "article": "der", "type": "noun", "level": "B1", "meaning": "blessing" },
+    { "word": "die Einsamkeit", "article": "die", "type": "noun", "level": "B1", "meaning": "loneliness, solitude" },
+    { "word": "verschwimmen", "type": "verb", "level": "B2", "meaning": "to blur, to become blurred" },
+    { "word": "einhalten", "type": "verb", "level": "B1", "meaning": "to keep, to observe, to adhere to" },
+    { "word": "hybrid", "type": "adjective", "level": "B1", "meaning": "hybrid" }
+  ]
+}

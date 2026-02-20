@@ -1,0 +1,23 @@
+{
+  "id": "19",
+  "slug": "recycling-in-deutschland",
+  "title": "Recycling in Germany: World Champions",
+  "level": "A2",
+  "category": "news",
+  "sentences": [
+    { "de": "Deutschland ist weltbekannt für sein Recyclingsystem.", "en": "Germany is world-famous for its recycling system." },
+    { "de": "In Deutschland gibt es viele verschiedene Mülltonnen.", "en": "In Germany there are many different bins." },
+    { "de": "Man trennt Papier, Plastik, Glas und Biomüll.", "en": "You separate paper, plastic, glass and organic waste." },
+    { "de": "Das gelbe System, auch \"Grüner Punkt\" genannt, ist für Verpackungen.", "en": "The yellow system, also called the 'Green Dot', is for packaging." },
+    { "de": "Glas wird nach Farbe getrennt: weiß, braun und grün.", "en": "Glass is separated by colour: white, brown and green." },
+    { "de": "Durch das Recycling schont Deutschland viele natürliche Ressourcen.", "en": "Through recycling, Germany conserves many natural resources." }
+  ],
+  "vocabulary": [
+    { "word": "das Recycling", "article": "das", "type": "noun", "level": "A2", "meaning": "recycling" },
+    { "word": "die Mülltonne", "article": "die", "type": "noun", "level": "A2", "meaning": "rubbish bin, dustbin" },
+    { "word": "trennen", "type": "verb", "level": "A2", "meaning": "to separate" },
+    { "word": "die Verpackung", "article": "die", "type": "noun", "level": "A2", "meaning": "packaging, wrapping" },
+    { "word": "schonen", "type": "verb", "level": "B1", "meaning": "to conserve, to protect, to spare" },
+    { "word": "natürlich", "type": "adjective", "level": "A1", "meaning": "natural; of course" }
+  ]
+}

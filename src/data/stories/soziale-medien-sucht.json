@@ -1,0 +1,23 @@
+{
+  "id": "13",
+  "slug": "soziale-medien-sucht",
+  "title": "Social Media: When Scrolling Becomes an Addiction",
+  "level": "B1",
+  "category": "news",
+  "sentences": [
+    { "de": "Laut einer neuen Studie verbringen Jugendliche durchschnittlich vier Stunden täglich auf sozialen Medien.", "en": "According to a new study, young people spend an average of four hours a day on social media." },
+    { "de": "Experten warnen, dass übermäßiger Konsum zu Schlafproblemen und Angstzuständen führen kann.", "en": "Experts warn that excessive consumption can lead to sleep problems and anxiety." },
+    { "de": "Die Algorithmen der Apps sind darauf ausgelegt, die Nutzer so lange wie möglich zu beschäftigen.", "en": "The algorithms of the apps are designed to keep users occupied for as long as possible." },
+    { "de": "Viele Menschen berichten, dass sie ihr Handy nicht weglegen können, obwohl sie es möchten.", "en": "Many people report that they cannot put down their phone even though they want to." },
+    { "de": "Psychologen empfehlen, feste Zeiten ohne Bildschirm einzuführen.", "en": "Psychologists recommend introducing set screen-free times." },
+    { "de": "Einige Schulen haben bereits ein Handyverbot während der Unterrichtsstunden eingeführt.", "en": "Some schools have already introduced a mobile phone ban during lesson hours." }
+  ],
+  "vocabulary": [
+    { "word": "die Sucht", "article": "die", "type": "noun", "level": "B1", "meaning": "addiction" },
+    { "word": "übermäßig", "type": "adjective", "level": "B1", "meaning": "excessive, excessively" },
+    { "word": "der Algorithmus", "article": "der", "type": "noun", "level": "B1", "meaning": "algorithm" },
+    { "word": "ausgelegt sein auf", "type": "expression", "level": "B1", "meaning": "to be designed for, to be aimed at" },
+    { "word": "empfehlen", "type": "verb", "level": "A2", "meaning": "to recommend" },
+    { "word": "das Verbot", "article": "das", "type": "noun", "level": "A2", "meaning": "ban, prohibition" }
+  ]
+}

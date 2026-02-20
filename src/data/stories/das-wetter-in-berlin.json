@@ -1,0 +1,23 @@
+{
+  "id": "3",
+  "slug": "das-wetter-in-berlin",
+  "title": "Weather in Berlin: A Cold Winter",
+  "level": "A1",
+  "category": "blog",
+  "sentences": [
+    { "de": "Im Winter ist es in Berlin sehr kalt.", "en": "In winter it is very cold in Berlin." },
+    { "de": "Die Temperaturen sind oft unter null Grad.", "en": "Temperatures are often below zero degrees." },
+    { "de": "Es schneit manchmal, und die Stadt wird weiß.", "en": "It sometimes snows, and the city turns white." },
+    { "de": "Die Menschen tragen dicke Jacken und Schals.", "en": "People wear thick jackets and scarves." },
+    { "de": "Viele trinken heißen Tee oder Kaffee.", "en": "Many drink hot tea or coffee." },
+    { "de": "Im Sommer ist Berlin warm und schön.", "en": "In summer, Berlin is warm and beautiful." }
+  ],
+  "vocabulary": [
+    { "word": "das Wetter", "article": "das", "type": "noun", "level": "A1", "meaning": "weather" },
+    { "word": "kalt", "type": "adjective", "level": "A1", "meaning": "cold" },
+    { "word": "schneien", "type": "verb", "level": "A1", "meaning": "to snow" },
+    { "word": "die Jacke", "article": "die", "type": "noun", "level": "A1", "meaning": "jacket" },
+    { "word": "heiß", "type": "adjective", "level": "A1", "meaning": "hot" },
+    { "word": "manchmal", "type": "adverb", "level": "A1", "meaning": "sometimes" }
+  ]
+}

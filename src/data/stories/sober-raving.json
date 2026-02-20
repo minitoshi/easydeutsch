@@ -1,0 +1,24 @@
+{
+  "id": "1",
+  "slug": "sober-raving",
+  "title": "Sober Raving Is Trending Among Young Adults",
+  "level": "A1",
+  "category": "news",
+  "sentences": [
+    { "de": "Ein bekannter Club in London macht Partys ohne Alkohol.", "en": "A well-known club in London is having parties without alcohol." },
+    { "de": "Das ist neu für den Club.", "en": "This is new for the club." },
+    { "de": "Ein guter DJ spielt Musik auf den Partys.", "en": "A good DJ plays music at the parties." },
+    { "de": "Die Leute können die Musik hören und tanzen.", "en": "People can listen to the music and dance." },
+    { "de": "Der Club sagt: Das macht Spaß!", "en": "The club says: This is fun!" },
+    { "de": "Viele junge Leute kommen zu den Partys.", "en": "Many young people come to the parties." },
+    { "de": "Sie trinken Wasser oder Saft.", "en": "They drink water or juice." }
+  ],
+  "vocabulary": [
+    { "word": "machen", "type": "verb", "level": "A1", "meaning": "to do, to make, to take" },
+    { "word": "die Musik", "article": "die", "type": "noun", "level": "A1", "meaning": "music" },
+    { "word": "tanzen", "type": "verb", "level": "A2", "meaning": "to dance" },
+    { "word": "der Spaß", "article": "der", "type": "noun", "level": "A2", "meaning": "fun" },
+    { "word": "bekannt", "type": "adjective", "level": "A2", "meaning": "well-known, famous" },
+    { "word": "ohne", "type": "preposition", "level": "A1", "meaning": "without" }
+  ]
+}

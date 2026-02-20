@@ -1,0 +1,24 @@
+{
+  "id": "7",
+  "slug": "mein-leben-als-bäcker",
+  "title": "My Life as a Baker",
+  "level": "A2",
+  "category": "journal",
+  "sentences": [
+    { "de": "Ich stehe jeden Tag um vier Uhr morgens auf.", "en": "I get up at four o'clock in the morning every day." },
+    { "de": "Das ist früh, aber ich liebe meinen Beruf.", "en": "That is early, but I love my job." },
+    { "de": "In der Bäckerei bereite ich frisches Brot und Brötchen vor.", "en": "In the bakery I prepare fresh bread and rolls." },
+    { "de": "Der Duft von frischem Brot füllt den ganzen Laden.", "en": "The smell of fresh bread fills the whole shop." },
+    { "de": "Um sechs Uhr öffnen wir die Türen für die ersten Kunden.", "en": "At six o'clock we open the doors for the first customers." },
+    { "de": "Meine Lieblingsarbeit ist das Backen von Croissants.", "en": "My favorite work is baking croissants." },
+    { "de": "Am Ende des Tages bin ich müde, aber zufrieden.", "en": "At the end of the day I am tired but satisfied." }
+  ],
+  "vocabulary": [
+    { "word": "aufstehen", "type": "verb", "level": "A1", "meaning": "to get up" },
+    { "word": "der Beruf", "article": "der", "type": "noun", "level": "A2", "meaning": "profession, job" },
+    { "word": "vorbereiten", "type": "verb", "level": "A2", "meaning": "to prepare" },
+    { "word": "der Duft", "article": "der", "type": "noun", "level": "B1", "meaning": "fragrance, scent, aroma" },
+    { "word": "füllen", "type": "verb", "level": "A2", "meaning": "to fill" },
+    { "word": "zufrieden", "type": "adjective", "level": "A2", "meaning": "satisfied, content" }
+  ]
+}

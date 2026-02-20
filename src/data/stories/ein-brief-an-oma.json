@@ -1,0 +1,24 @@
+{
+  "id": "14",
+  "slug": "ein-brief-an-oma",
+  "title": "A Letter to Grandma",
+  "level": "A2",
+  "category": "journal",
+  "sentences": [
+    { "de": "Liebe Oma, ich hoffe, es geht dir gut!", "en": "Dear Grandma, I hope you are doing well!" },
+    { "de": "Ich schreibe dir, weil ich bald meinen Schulabschluss mache.", "en": "I am writing to you because I am soon finishing school." },
+    { "de": "Danach möchte ich gerne ein Jahr ins Ausland gehen.", "en": "After that I would like to go abroad for a year." },
+    { "de": "Ich denke an Australien oder Kanada.", "en": "I am thinking of Australia or Canada." },
+    { "de": "Ich möchte mein Englisch verbessern und neue Kulturen kennenlernen.", "en": "I want to improve my English and get to know new cultures." },
+    { "de": "Dich vermisse ich sehr – und komme bald zu Besuch.", "en": "I miss you very much – and will come to visit soon." },
+    { "de": "Deine Enkelin, Sophie.", "en": "Your granddaughter, Sophie." }
+  ],
+  "vocabulary": [
+    { "word": "der Schulabschluss", "article": "der", "type": "noun", "level": "B1", "meaning": "school-leaving certificate, graduation" },
+    { "word": "das Ausland", "article": "das", "type": "noun", "level": "A2", "meaning": "abroad, foreign country" },
+    { "word": "verbessern", "type": "verb", "level": "A2", "meaning": "to improve" },
+    { "word": "kennenlernen", "type": "verb", "level": "A1", "meaning": "to get to know, to meet" },
+    { "word": "vermissen", "type": "verb", "level": "A2", "meaning": "to miss (someone)" },
+    { "word": "der Besuch", "article": "der", "type": "noun", "level": "A2", "meaning": "visit" }
+  ]
+}

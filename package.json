@@ -6,9 +6,14 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "generate": "npx tsx scripts/generate-stories.ts",
+    "generate:test": "npx tsx scripts/generate-stories.ts --test",
+    "check:german": "npx tsx scripts/check-german.ts",
+    "check:german:report": "npx tsx scripts/check-german.ts --report"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.78.0",
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3"
@@ -21,6 +26,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
     "tailwindcss": "^4",
+    "tsx": "^4.21.0",
     "typescript": "^5"
   }
 }

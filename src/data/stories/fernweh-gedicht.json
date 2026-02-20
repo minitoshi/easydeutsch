@@ -1,0 +1,23 @@
+{
+  "id": "15",
+  "slug": "fernweh-gedicht",
+  "title": "Fernweh: The Longing for Distant Places",
+  "level": "B1",
+  "category": "poem",
+  "sentences": [
+    { "de": "Das Fernweh packt mich jeden Herbst.", "en": "The longing for faraway places grabs me every autumn." },
+    { "de": "Wenn die Blätter fallen und die Tage kürzer werden.", "en": "When the leaves fall and the days grow shorter." },
+    { "de": "Ich träume von fernen Meeren und fremden Städten.", "en": "I dream of distant seas and foreign cities." },
+    { "de": "Von Gewürzen, die ich noch nicht kenne.", "en": "Of spices I have not yet encountered." },
+    { "de": "Doch weiß ich auch: Die Heimat wartet.", "en": "Yet I also know: home is waiting." },
+    { "de": "Das Vertraute gibt mir Kraft, das Fremde zu suchen.", "en": "The familiar gives me strength to seek the unknown." }
+  ],
+  "vocabulary": [
+    { "word": "das Fernweh", "article": "das", "type": "noun", "level": "B1", "meaning": "wanderlust, longing for distant places" },
+    { "word": "packen", "type": "verb", "level": "B1", "meaning": "to grab, to seize; to pack" },
+    { "word": "träumen von", "type": "verb", "level": "A2", "meaning": "to dream of" },
+    { "word": "das Gewürz", "article": "das", "type": "noun", "level": "B1", "meaning": "spice" },
+    { "word": "die Heimat", "article": "die", "type": "noun", "level": "A2", "meaning": "home, homeland" },
+    { "word": "vertraut", "type": "adjective", "level": "B1", "meaning": "familiar, trusted" }
+  ]
+}

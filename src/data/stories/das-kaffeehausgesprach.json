@@ -1,0 +1,25 @@
+{
+  "id": "5",
+  "slug": "das-kaffeehausgesprach",
+  "title": "A Conversation in the Coffee House",
+  "level": "A2",
+  "category": "story",
+  "sentences": [
+    { "de": "Maria und Thomas sitzen in einem gemütlichen Kaffeehaus in Wien.", "en": "Maria and Thomas are sitting in a cozy coffee house in Vienna." },
+    { "de": "Sie bestellen zwei Melangen und ein Stück Apfelstrudel.", "en": "They order two Viennese coffees and a piece of apple strudel." },
+    { "de": "\"Wie war dein Wochenende?\", fragt Thomas.", "en": "\"How was your weekend?\" asks Thomas." },
+    { "de": "\"Sehr schön! Ich war in den Bergen wandern.\", antwortet Maria.", "en": "\"Very nice! I went hiking in the mountains,\" answers Maria." },
+    { "de": "Thomas erzählt, dass er ein neues Buch gelesen hat.", "en": "Thomas tells her that he read a new book." },
+    { "de": "Sie reden lange und vergessen die Zeit.", "en": "They talk for a long time and forget the time." },
+    { "de": "Am Ende bezahlen sie und gehen spazieren.", "en": "In the end they pay and go for a walk." }
+  ],
+  "vocabulary": [
+    { "word": "gemütlich", "type": "adjective", "level": "A2", "meaning": "cozy, comfortable, pleasant" },
+    { "word": "bestellen", "type": "verb", "level": "A2", "meaning": "to order" },
+    { "word": "wandern", "type": "verb", "level": "A2", "meaning": "to hike, to wander" },
+    { "word": "erzählen", "type": "verb", "level": "A2", "meaning": "to tell, to narrate" },
+    { "word": "vergessen", "type": "verb", "level": "A2", "meaning": "to forget" },
+    { "word": "bezahlen", "type": "verb", "level": "A2", "meaning": "to pay" },
+    { "word": "spazieren gehen", "type": "expression", "level": "A2", "meaning": "to go for a walk" }
+  ]
+}

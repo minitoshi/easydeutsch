@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "1",
+    "slug": "sober-raving",
+    "title": "Sober Raving Is Trending Among Young Adults",
+    "level": "A1",
+    "category": "news",
+    "sentenceCount": 7,
+    "vocabCount": 6
+  },
+  {
+    "id": "2",
+    "slug": "der-erste-schultag",
+    "title": "The First Day of School",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 7
+  },
+  {
+    "id": "3",
+    "slug": "das-wetter-in-berlin",
+    "title": "Weather in Berlin: A Cold Winter",
+    "level": "A1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 6
+  },
+  {
+    "id": "4",
+    "slug": "frühling-gedicht",
+    "title": "Spring Poem: The Flowers Bloom",
+    "level": "A1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 6
+  },
+  {
+    "id": "5",
+    "slug": "das-kaffeehausgesprach",
+    "title": "A Conversation in the Coffee House",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 7
+  },
+  {
+    "id": "6",
+    "slug": "elektroautos-in-deutschland",
+    "title": "Electric Cars: Germany's Green Future",
+    "level": "A2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 6
+  },
+  {
+    "id": "7",
+    "slug": "mein-leben-als-bäcker",
+    "title": "My Life as a Baker",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 7,
+    "vocabCount": 6
+  },
+  {
+    "id": "8",
+    "slug": "klimawandel-fakten",
+    "title": "Climate Change: Facts Everyone Should Know",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 7
+  },
+  {
+    "id": "9",
+    "slug": "die-nacht-des-sturms",
+    "title": "The Night of the Storm",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 6
+  },
+  {
+    "id": "10",
+    "slug": "oktoberfest-geschichte",
+    "title": "The History of Oktoberfest",
+    "level": "A2",
+    "category": "culture",
+    "sentenceCount": 7,
+    "vocabCount": 6
+  },
+  {
+    "id": "11",
+    "slug": "berlin-mauerfall",
+    "title": "The Fall of the Berlin Wall: A Historic Night",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 7
+  },
+  {
+    "id": "12",
+    "slug": "der-stadtpark",
+    "title": "A Sunday Afternoon in the City Park",
+    "level": "A1",
+    "category": "blog",
+    "sentenceCount": 7,
+    "vocabCount": 6
+  },
+  {
+    "id": "13",
+    "slug": "soziale-medien-sucht",
+    "title": "Social Media: When Scrolling Becomes an Addiction",
+    "level": "B1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 6
+  },
+  {
+    "id": "14",
+    "slug": "ein-brief-an-oma",
+    "title": "A Letter to Grandma",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 7,
+    "vocabCount": 6
+  },
+  {
+    "id": "15",
+    "slug": "fernweh-gedicht",
+    "title": "Fernweh: The Longing for Distant Places",
+    "level": "B1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 6
+  },
+  {
+    "id": "16",
+    "slug": "arbeiten-von-zu-hause",
+    "title": "Working from Home: Blessing or Curse?",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 6
+  },
+  {
+    "id": "17",
+    "slug": "die-bibliothek",
+    "title": "The Magic of the Library",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 6
+  },
+  {
+    "id": "18",
+    "slug": "quantencomputer-erklaert",
+    "title": "Quantum Computers Explained Simply",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 6
+  },
+  {
+    "id": "19",
+    "slug": "recycling-in-deutschland",
+    "title": "Recycling in Germany: World Champions",
+    "level": "A2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 6
+  },
+  {
+    "id": "20",
+    "slug": "der-neue-nachbar",
+    "title": "The New Neighbour",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 6
+  },
+  {
+    "id": "21",
+    "slug": "die-katze-im-baum",
+    "title": "The Cat in the Tree",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 6
+  },
+  {
+    "id": "22",
+    "slug": "mein-hund-bello",
+    "title": "My Dog Bello",
+    "level": "A1",
+    "category": "blog",
+    "sentenceCount": 7,
+    "vocabCount": 6
+  },
+  {
+    "id": "23",
+    "slug": "im-supermarkt",
+    "title": "At the Supermarket",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 6
+  },
+  {
+    "id": "24",
+    "slug": "das-rote-fahrrad",
+    "title": "The Red Bicycle",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 6
+  },
+  {
+    "id": "25",
+    "slug": "neue-baeckerei-in-der-stadt",
+    "title": "A New Bakery Opens in Town",
+    "level": "A1",
+    "category": "news",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "26",
+    "slug": "hund-als-maskottchen",
+    "title": "A Dog Becomes a Football Mascot",
+    "level": "A1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "27",
+    "slug": "kostenlose-bustickets",
+    "title": "Free Bus Tickets for Children",
+    "level": "A1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "28",
+    "slug": "baby-pinguine-im-zoo",
+    "title": "Baby Penguins at the Zoo",
+    "level": "A1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "29",
+    "slug": "bibliothek-am-sonntag",
+    "title": "The Library Opens on Sundays",
+    "level": "A1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "30",
+    "slug": "schulgarten-projekt",
+    "title": "The School Plants a Vegetable Garden",
+    "level": "A1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "31",
+    "slug": "vermisste-katze-gefunden",
+    "title": "Missing Cat Found After Three Weeks",
+    "level": "A1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "32",
+    "slug": "kinder-putzen-den-park",
+    "title": "Children Clean Up the Park",
+    "level": "A1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "33",
+    "slug": "neuer-spielplatz-vienna",
+    "title": "New Playground Opens in Vienna",
+    "level": "A1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "34",
+    "slug": "wochenmarkt-am-samstag",
+    "title": "Fresh Market Every Saturday",
+    "level": "A1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "35",
+    "slug": "neues-schwimmbad",
+    "title": "A Small Town Gets a New Swimming Pool",
+    "level": "A1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "36",
+    "slug": "bauer-rettet-enten",
+    "title": "Farmer Saves a Duck Family",
+    "level": "A1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "37",
+    "slug": "dorf-feiert-geburtstag",
+    "title": "A Village Celebrates Its 500th Birthday",
+    "level": "A1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "38",
+    "slug": "buch-fuer-alle-kinder",
+    "title": "Free Books for Every Child",
+    "level": "A1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "39",
+    "slug": "nachbarschaftsgarten",
+    "title": "Neighbours Build a Community Garden",
+    "level": "A1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "40",
+    "slug": "geburtstagskuchen-fuer-mama",
+    "title": "A Birthday Cake for Mum",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 6
+  },
+  {
+    "id": "41",
+    "slug": "fussball-im-regen",
+    "title": "Football in the Rain",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 6
+  },
+  {
+    "id": "42",
+    "slug": "fahrrad-fahren-lernen",
+    "title": "Learning to Ride a Bicycle",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "43",
+    "slug": "die-streunende-katze",
+    "title": "The Boy Who Adopted a Stray Cat",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "44",
+    "slug": "sonntagsfruehstueck",
+    "title": "Sunday Morning Breakfast",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "45",
+    "slug": "verlorener-regenschirm",
+    "title": "The Lost Umbrella",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "46",
+    "slug": "verirrt-im-bahnhof",
+    "title": "Lost at the Train Station",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "47",
+    "slug": "erster-brief-an-brieffreund",
+    "title": "A First Letter to a Pen Pal",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "48",
+    "slug": "ausflug-in-den-zoo",
+    "title": "A Class Trip to the Zoo",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "49",
+    "slug": "zu-spaet-aufgewacht",
+    "title": "Waking Up Late and Missing the Bus",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "50",
+    "slug": "ordnung-im-kinderzimmer",
+    "title": "Two Sisters and the Messy Bedroom",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "51",
+    "slug": "erste-suppe-kochen",
+    "title": "A Boy Cooks Soup for the First Time",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "52",
+    "slug": "muenze-auf-der-strasse",
+    "title": "A Girl Finds a Coin on the Street",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "53",
+    "slug": "fussball-zusammen-schauen",
+    "title": "Watching Football as a Family",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "54",
+    "slug": "der-erste-schnee",
+    "title": "Seeing Snow for the First Time",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "55",
+    "slug": "oma-hilft-beim-kochen",
+    "title": "Grandma Teaches Her Grandchild to Cook",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "56",
+    "slug": "ein-vogel-faellt-aus-dem-nest",
+    "title": "A Bird That Fell from the Nest",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "57",
+    "slug": "schneemann-bauen",
+    "title": "Building a Snowman in the Garden",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "58",
+    "slug": "mein-lieblingsessen",
+    "title": "My Favourite Food: Kartoffelsuppe",
+    "level": "A1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "59",
+    "slug": "warum-ich-den-herbst-liebe",
+    "title": "Why I Love Autumn",
+    "level": "A1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "60",
+    "slug": "ein-tag-am-strand",
+    "title": "A Day at the Beach",
+    "level": "A1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "61",
+    "slug": "mein-morgenroutine",
+    "title": "My Morning Routine",
+    "level": "A1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "62",
+    "slug": "mein-kaninchen",
+    "title": "My Pet Rabbit",
+    "level": "A1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 6
+  },
+  {
+    "id": "63",
+    "slug": "schwimmen-lernen",
+    "title": "Learning to Swim",
+    "level": "A1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "64",
+    "slug": "mein-lieblingssport",
+    "title": "My Favourite Sport",
+    "level": "A1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "65",
+    "slug": "mein-bester-freund",
+    "title": "My Best Friend",
+    "level": "A1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "66",
+    "slug": "tagebuch-schultag",
+    "title": "Diary: A Normal School Day",
+    "level": "A1",
+    "category": "journal",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "67",
+    "slug": "tagebuch-erste-neue-stadt",
+    "title": "Diary: My First Day in a New City",
+    "level": "A1",
+    "category": "journal",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "68",
+    "slug": "tagebuch-geburtstag",
+    "title": "Diary: My Birthday",
+    "level": "A1",
+    "category": "journal",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "69",
+    "slug": "tagebuch-arztbesuch",
+    "title": "Diary: A Visit to the Doctor",
+    "level": "A1",
+    "category": "journal",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "70",
+    "slug": "tagebuch-abendessen-allein",
+    "title": "Diary: Cooking Dinner Alone",
+    "level": "A1",
+    "category": "journal",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "71",
+    "slug": "gedicht-jahreszeiten",
+    "title": "A Poem About the Four Seasons",
+    "level": "A1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "72",
+    "slug": "gedicht-regen",
+    "title": "A Poem About Rain on the Window",
+    "level": "A1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "73",
+    "slug": "gedicht-mond",
+    "title": "A Poem About the Moon at Night",
+    "level": "A1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "74",
+    "slug": "weihnachtsmarkt-erlebnis",
+    "title": "My Evening at the Christmas Market",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 7,
+    "vocabCount": 6
+  },
+  {
+    "id": "75",
+    "slug": "schnitzel-kochen",
+    "title": "How I Learned to Cook Schnitzel",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 6
+  },
+  {
+    "id": "76",
+    "slug": "wochenende-in-muenchen",
+    "title": "My Weekend in Munich",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "77",
+    "slug": "fahrrad-zur-arbeit",
+    "title": "Why I Started Cycling to Work",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 7,
+    "vocabCount": 5
+  },
+  {
+    "id": "78",
+    "slug": "mein-haustier",
+    "title": "My Cat Milo",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "79",
+    "slug": "supermarkt-einkauf",
+    "title": "A Trip to the Supermarket",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "80",
+    "slug": "joggen-im-park",
+    "title": "Running in the Park",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "81",
+    "slug": "erste-wohnung",
+    "title": "My First Apartment",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "82",
+    "slug": "deutschkurs-erfahrung",
+    "title": "My Experience Learning German",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "83",
+    "slug": "brief-an-freundin",
+    "title": "A Letter to My Best Friend",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "84",
+    "slug": "tagebuch-montag",
+    "title": "Diary Entry: A Typical Monday",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "85",
+    "slug": "reise-nach-wien",
+    "title": "My Trip to Vienna",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "86",
+    "slug": "geburtstag-ueberraschung",
+    "title": "The Birthday Surprise",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "87",
+    "slug": "verlorene-katze",
+    "title": "The Lost Cat",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "88",
+    "slug": "flughafen-chaos",
+    "title": "Chaos at the Airport",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "89",
+    "slug": "urlaub-am-meer",
+    "title": "Holiday by the Sea",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "90",
+    "slug": "gedicht-herbst",
+    "title": "An Autumn Poem",
+    "level": "A2",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "91",
+    "slug": "strandkorb-gedanken",
+    "title": "Thoughts from a Beach Chair",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "92",
+    "slug": "vegetarisch-kochen",
+    "title": "I Started Cooking Vegetarian",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "93",
+    "slug": "pendeln-mit-dem-zug",
+    "title": "Commuting by Train",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "94",
+    "slug": "neues-hobby-klettern",
+    "title": "My New Hobby: Climbing",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "95",
+    "slug": "markt-am-morgen",
+    "title": "The Morning Market",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "96",
+    "slug": "gewitter-nacht",
+    "title": "A Stormy Night",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "97",
+    "slug": "arzttermin",
+    "title": "At the Doctor's Office",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "98",
+    "slug": "schrebergarten",
+    "title": "My Allotment Garden",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "99",
+    "slug": "konzert-erlebnis",
+    "title": "An Unforgettable Concert",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "100",
+    "slug": "digitale-detox",
+    "title": "My Week Without Screens",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "101",
+    "slug": "fremde-sprache-denken",
+    "title": "Thinking in a Foreign Language",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "102",
+    "slug": "grossstadtleben",
+    "title": "Life in a Big City",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "103",
+    "slug": "ki-im-alltag",
+    "title": "AI in Everyday Life",
+    "level": "B1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "104",
+    "slug": "lohnluecke",
+    "title": "The Gender Pay Gap in Germany",
+    "level": "B1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "105",
+    "slug": "bahnstreik-auswirkungen",
+    "title": "The Impact of the Rail Strike",
+    "level": "B1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "106",
+    "slug": "waldspaziergang-philosophie",
+    "title": "Philosophy on a Forest Walk",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "107",
+    "slug": "nachtschicht-zeugnis",
+    "title": "A Night Shift Worker Speaks",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "108",
+    "slug": "gedicht-winter",
+    "title": "A Poem of Winter Silence",
+    "level": "B1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "109",
+    "slug": "ehrenamtlich-taetig",
+    "title": "Why I Volunteer",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "110",
+    "slug": "klimaangst",
+    "title": "Climate Anxiety: A Personal Account",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "111",
+    "slug": "heimweh-in-der-fremde",
+    "title": "Homesick Abroad",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "112",
+    "slug": "stadtmenschen-begegnung",
+    "title": "A Brief Encounter",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "113",
+    "slug": "bienensterben",
+    "title": "The Decline of Bees",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "114",
+    "slug": "mond-und-gezeiten",
+    "title": "The Moon and the Tides",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "115",
+    "slug": "karneval-in-koeln",
+    "title": "Carnival in Cologne",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "116",
+    "slug": "dirndl-und-lederhosen",
+    "title": "Dirndl and Lederhosen: More Than Costume",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "117",
+    "slug": "schwarzwald-tradition",
+    "title": "Traditions of the Black Forest",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "118",
+    "slug": "jahrestag-beziehung",
+    "title": "Our Anniversary",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "119",
+    "slug": "buch-empfehlung",
+    "title": "A Book That Changed My View",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "120",
+    "slug": "pendler-zug-gedicht",
+    "title": "The Commuter Train Poem",
+    "level": "B1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "121",
+    "slug": "impfpflicht-debatte",
+    "title": "The Vaccination Debate",
+    "level": "B1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "122",
+    "slug": "fernleihe-bibliothek",
+    "title": "The Magic of Interlibrary Loans",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "123",
+    "slug": "schlaflabor-erfahrung",
+    "title": "A Night in a Sleep Lab",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "124",
+    "slug": "autobahn-geschichte",
+    "title": "The History of the Autobahn",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "125",
+    "slug": "refugee-story",
+    "title": "A New Beginning in Germany",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "126",
+    "slug": "heimarbeit-isolation",
+    "title": "The Lonely Side of Home Office",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "127",
+    "slug": "mikroplastik-ozean",
+    "title": "Microplastics in Our Oceans",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "128",
+    "slug": "sprache-und-identitaet",
+    "title": "Language and Identity",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "129",
+    "slug": "insolvenz-kleinunternehmen",
+    "title": "When a Small Business Fails",
+    "level": "B1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "130",
+    "slug": "gedicht-grossstadt",
+    "title": "City at Night — A Poem",
+    "level": "B1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "131",
+    "slug": "allergien-fruhling",
+    "title": "When Spring Means Suffering",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "132",
+    "slug": "wiedervereinigung-erinnerung",
+    "title": "Memory of Reunification",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "133",
+    "slug": "buchhandlung-versus-amazon",
+    "title": "Bookshops vs Online Giants",
+    "level": "B1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "134",
+    "slug": "spaziergang-alter",
+    "title": "Walking with Grandpa",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "135",
+    "slug": "hitze-sommer",
+    "title": "The Summer of Extreme Heat",
+    "level": "B1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "136",
+    "slug": "philosophie-glueck",
+    "title": "What Is Happiness? A Brief Reflection",
+    "level": "B2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "137",
+    "slug": "werkzeug-sprache",
+    "title": "Language as a Tool of Power",
+    "level": "B2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "138",
+    "slug": "zwillinge-identitaet",
+    "title": "Being a Twin: Identity and Difference",
+    "level": "B2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "139",
+    "slug": "tiefsee-erforschung",
+    "title": "Exploring the Deep Sea",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "140",
+    "slug": "trauma-und-erinnerung",
+    "title": "Trauma and Memory",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "141",
+    "slug": "demokratie-krise",
+    "title": "Is Democracy in Crisis?",
+    "level": "B2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "142",
+    "slug": "gedicht-sterblichkeit",
+    "title": "On Mortality — A Poem",
+    "level": "B2",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "143",
+    "slug": "erntemonde-gedicht",
+    "title": "Harvest Moon — A Poem",
+    "level": "B1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "144",
+    "slug": "nachhaltiger-konsum",
+    "title": "Sustainable Consumption: Illusion or Reality?",
+    "level": "B2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "145",
+    "slug": "beethoven-brief",
+    "title": "Beethoven's Immortal Beloved",
+    "level": "B2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "146",
+    "slug": "antisemitismus-heute",
+    "title": "Antisemitism in Germany Today",
+    "level": "B2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "147",
+    "slug": "kinder-und-buecher",
+    "title": "Why Children Should Read More",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "148",
+    "slug": "migration-arbeitsmarkt",
+    "title": "Migration and the German Labour Market",
+    "level": "B2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "149",
+    "slug": "freundschaft-distanz",
+    "title": "Long-Distance Friendship",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "150",
+    "slug": "biorhythmus-nacht",
+    "title": "Are You a Morning or Night Person?",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "151",
+    "slug": "berghütte-abenteuer",
+    "title": "A Night in a Mountain Hut",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "152",
+    "slug": "fremde-freundlichkeit",
+    "title": "Kindness from a Stranger",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "153",
+    "slug": "elterngeld-system",
+    "title": "Germany's Parental Leave System",
+    "level": "B2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "154",
+    "slug": "quantenmechanik-katze",
+    "title": "Schrodinger's Cat Explained",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "155",
+    "slug": "bauernhof-urlaub",
+    "title": "Holiday on a Farm",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "156",
+    "slug": "kaffeekunde",
+    "title": "The Art of Coffee",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "157",
+    "slug": "natur-therapie",
+    "title": "Nature as Therapy",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "158",
+    "slug": "reisebericht-japan",
+    "title": "Two Weeks in Japan",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "159",
+    "slug": "nachruf-oma",
+    "title": "My Grandmother's Life in Five Objects",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "160",
+    "slug": "zugspitze-wanderung",
+    "title": "Climbing the Zugspitze",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "161",
+    "slug": "digitaler-nachlass",
+    "title": "What Happens to Our Digital Life After Death",
+    "level": "B2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "162",
+    "slug": "kunstmuseum-erlebnis",
+    "title": "My First Time in an Art Museum",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "163",
+    "slug": "geschwister-streit",
+    "title": "A Sibling Argument",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "164",
+    "slug": "zugticket-problem",
+    "title": "The Wrong Train Ticket",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "165",
+    "slug": "pizza-selbst-backen",
+    "title": "Making Pizza from Scratch",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "166",
+    "slug": "musik-und-gedaechtnis",
+    "title": "Music and Memory",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "167",
+    "slug": "schule-fruehaufsteher",
+    "title": "Why School Starts Too Early",
+    "level": "B1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "168",
+    "slug": "jahrestag-mauerfall",
+    "title": "November 9th — A Date in History",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "169",
+    "slug": "gedicht-vergaenglichkeit",
+    "title": "Transience — A Poem",
+    "level": "B2",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "170",
+    "slug": "hitzefrei-schule",
+    "title": "School Off Due to Heat",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "171",
+    "slug": "spende-fuer-guten-zweck",
+    "title": "Donating for a Good Cause",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "172",
+    "slug": "nacht-im-zug",
+    "title": "Overnight Train to Prague",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "173",
+    "slug": "hund-verloren",
+    "title": "Lost Dog, Found Hope",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "174",
+    "slug": "werbung-psychologie",
+    "title": "The Psychology of Advertising",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "175",
+    "slug": "sonntagsroast",
+    "title": "Sunday Roast with Family",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "176",
+    "slug": "brieftauben-romantik",
+    "title": "The Romance of Carrier Pigeons",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "177",
+    "slug": "genug-ist-genug",
+    "title": "Enough Is Enough",
+    "level": "B2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "178",
+    "slug": "kochkurs-mit-mama",
+    "title": "Cooking Class with Mum",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "179",
+    "slug": "selbstgebackenes-brot",
+    "title": "Baking My Own Bread",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "180",
+    "slug": "apotheke-beratung",
+    "title": "Getting Advice at the Pharmacy",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "181",
+    "slug": "ferne-laender-sprachen",
+    "title": "Languages of Distant Lands",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "182",
+    "slug": "erste-hilfe-kurs",
+    "title": "What I Learned in First Aid",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "183",
+    "slug": "neubau-nachbarschaft",
+    "title": "New Neighbours Moving In",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "184",
+    "slug": "energie-sparen-tipps",
+    "title": "Tips to Save Energy at Home",
+    "level": "A2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "185",
+    "slug": "heimwerkerprojekt",
+    "title": "My First DIY Project",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "186",
+    "slug": "gedicht-meer",
+    "title": "The Sea — A Poem",
+    "level": "B1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "187",
+    "slug": "grosseltern-digital",
+    "title": "Teaching Grandma to Use WhatsApp",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "188",
+    "slug": "stadtplanung-zukunft",
+    "title": "Cities of the Future",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "189",
+    "slug": "tagebuch-reise-portugal",
+    "title": "Travel Diary: Lisbon",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "190",
+    "slug": "abgebrochenes-studium",
+    "title": "I Dropped Out of University",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "191",
+    "slug": "werkstatt-lehrling",
+    "title": "An Apprentice's Day in the Workshop",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "192",
+    "slug": "krise-und-wandel",
+    "title": "Crisis as Opportunity",
+    "level": "B2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "193",
+    "slug": "ueberflutung-dorf",
+    "title": "The Village After the Flood",
+    "level": "B1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "194",
+    "slug": "alte-fotos-finden",
+    "title": "Finding Old Family Photos",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "195",
+    "slug": "hochzeit-vorbereitung",
+    "title": "Planning a Wedding",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "196",
+    "slug": "ruhestand-freude",
+    "title": "The Joy of Retirement",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "197",
+    "slug": "licht-gedicht",
+    "title": "Light — A Poem",
+    "level": "A2",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "198",
+    "slug": "deutsches-brot",
+    "title": "Germany's Bread Culture",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "199",
+    "slug": "panik-pruefung",
+    "title": "Panic Before the Exam",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "200",
+    "slug": "gartenarbeit-herbst",
+    "title": "Autumn Garden Work",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "201",
+    "slug": "sprachbarriere-alltag",
+    "title": "Language Barrier in Daily Life",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "202",
+    "slug": "tierheim-besuch",
+    "title": "Visiting the Animal Shelter",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "203",
+    "slug": "natur-beobachtung",
+    "title": "Birdwatching for Beginners",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "204",
+    "slug": "kindheitstraum-pilot",
+    "title": "My Childhood Dream: Becoming a Pilot",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "205",
+    "slug": "abend-am-see",
+    "title": "An Evening by the Lake",
+    "level": "A2",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "206",
+    "slug": "sprache-lernen-tipps",
+    "title": "Five Tips for Learning German Faster",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "207",
+    "slug": "wohngemeinschaft-stress",
+    "title": "The Stress of Shared Housing",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "208",
+    "slug": "traum-vom-reisen",
+    "title": "Dreaming of Travel",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "209",
+    "slug": "interview-grossvater",
+    "title": "Interview with My Grandfather",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "210",
+    "slug": "fensterplatz-zug",
+    "title": "The Window Seat",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "211",
+    "slug": "generationenkonflikt",
+    "title": "Generation Gap",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "212",
+    "slug": "schlossbesuch",
+    "title": "Visiting Neuschwanstein Castle",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "213",
+    "slug": "lieblingsrestaurant-geschlossen",
+    "title": "My Favourite Restaurant Has Closed",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "214",
+    "slug": "pflanzen-wohnung",
+    "title": "How Plants Changed My Apartment",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "215",
+    "slug": "morgendliches-ritual",
+    "title": "My Morning Ritual",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "216",
+    "slug": "lehrerin-anschreiben",
+    "title": "The Teacher Who Believed in Me",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "217",
+    "slug": "kurierdienst-fahrer",
+    "title": "A Day as a Delivery Driver",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "218",
+    "slug": "freie-zeit-problem",
+    "title": "Too Much Free Time",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "219",
+    "slug": "gebirge-legende",
+    "title": "The Legend of the Mountain King",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "220",
+    "slug": "muell-trennen",
+    "title": "Recycling in Germany: A Guide",
+    "level": "A2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "221",
+    "slug": "jugendherberge-erfahrung",
+    "title": "Staying at a Youth Hostel",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "222",
+    "slug": "nachtmarkt-essen",
+    "title": "Street Food at the Night Market",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "223",
+    "slug": "gedicht-kind",
+    "title": "Being a Child Again — A Poem",
+    "level": "B1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "224",
+    "slug": "sprachkurs-fortschritte",
+    "title": "Six Months of German: My Progress",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "225",
+    "slug": "burnout-erholung",
+    "title": "Recovering from Burnout",
+    "level": "B2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "226",
+    "slug": "volkskunde-braeuche",
+    "title": "Strange German Folk Customs",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "227",
+    "slug": "arbeit-sinn",
+    "title": "What Makes Work Meaningful?",
+    "level": "B2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "228",
+    "slug": "waldbrand-bericht",
+    "title": "Forest Fire: A Reporter's Account",
+    "level": "B2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "229",
+    "slug": "spiegelgedicht",
+    "title": "Mirror — A Poem",
+    "level": "B2",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "230",
+    "slug": "erste-eigene-reise",
+    "title": "My First Solo Trip at 18",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "231",
+    "slug": "hacker-angriff",
+    "title": "When Our Company Was Hacked",
+    "level": "B2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "232",
+    "slug": "vegan-herausforderung",
+    "title": "Going Vegan for a Month",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "233",
+    "slug": "kinderbuch-schreiben",
+    "title": "I Wrote a Children's Book",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "234",
+    "slug": "dorf-versus-stadt",
+    "title": "Village vs City: Where Do You Belong?",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "235",
+    "slug": "roboter-fabrik",
+    "title": "The Rise of Factory Robots",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "236",
+    "slug": "gedicht-fernweh",
+    "title": "Wanderlust — A Poem",
+    "level": "B1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "237",
+    "slug": "tauschbörse-nachbarschaft",
+    "title": "The Neighbourhood Swap Market",
+    "level": "A2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "238",
+    "slug": "zirkus-kind",
+    "title": "My First Time at the Circus",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "239",
+    "slug": "brettspiele-abend",
+    "title": "Game Night",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "240",
+    "slug": "freunde-verloren",
+    "title": "Friendships That Fade",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "241",
+    "slug": "kinder-wachsen-auf",
+    "title": "Watching Children Grow",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "242",
+    "slug": "besuch-krankenhaus",
+    "title": "Visiting a Friend in Hospital",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "243",
+    "slug": "mathe-angst",
+    "title": "Maths Anxiety is Real",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "244",
+    "slug": "freiwillige-feuerwehr",
+    "title": "Volunteering at the Fire Brigade",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "245",
+    "slug": "traum-verfolgt",
+    "title": "The Dream That Keeps Coming Back",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "246",
+    "slug": "apfelbaum-garten",
+    "title": "The Apple Tree in Our Garden",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "247",
+    "slug": "regenwald-zerstoerung",
+    "title": "The Destruction of the Rainforest",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "248",
+    "slug": "balkonien",
+    "title": "Balkonien: My Outdoor Sanctuary",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "249",
+    "slug": "ausstellung-besucht",
+    "title": "An Art Exhibition That Moved Me",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "250",
+    "slug": "zweitsprache-vorteile",
+    "title": "The Benefits of Bilingualism",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "251",
+    "slug": "pfad-im-wald",
+    "title": "A Path Through the Forest",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "252",
+    "slug": "konzentration-lernen",
+    "title": "How to Focus Better While Studying",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "253",
+    "slug": "heimweh-gedicht",
+    "title": "Homesick — A Poem",
+    "level": "B1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "254",
+    "slug": "fernseher-reparieren",
+    "title": "Instead of Throwing Away: Repairing",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "255",
+    "slug": "mondlandung-erinnerung",
+    "title": "The Moon Landing: A Grandmother Remembers",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "256",
+    "slug": "stadtbahn-liebesgeschichte",
+    "title": "A Love Story on the Tram",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "257",
+    "slug": "stille-post",
+    "title": "Chinese Whispers and Miscommunication",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "258",
+    "slug": "pension-gasthaus",
+    "title": "Staying in a Small Country Inn",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "259",
+    "slug": "klimaneutrales-haus",
+    "title": "Building a Climate-Neutral Home",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "260",
+    "slug": "polarnacht",
+    "title": "The Polar Night in Norway",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "261",
+    "slug": "beruf-wechseln",
+    "title": "Starting a New Career at 40",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "262",
+    "slug": "geister-haus",
+    "title": "The Haunted House on the Corner",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "263",
+    "slug": "oktoberfest-besucher",
+    "title": "My First Oktoberfest",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "264",
+    "slug": "gartenlaube-stille",
+    "title": "An Hour in the Garden Shed",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "265",
+    "slug": "planetarium-nacht",
+    "title": "A Night at the Planetarium",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "266",
+    "slug": "krankheit-neustart",
+    "title": "Illness as a Wake-Up Call",
+    "level": "B2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "267",
+    "slug": "bundesliga-fanclub",
+    "title": "Life as a Football Fan",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "268",
+    "slug": "traum-arzt-werden",
+    "title": "My Dream of Becoming a Doctor",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "269",
+    "slug": "winter-gedicht-wald",
+    "title": "Winter Forest — A Poem",
+    "level": "A2",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "270",
+    "slug": "unternehmer-gruendung",
+    "title": "Starting My Own Business",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "271",
+    "slug": "sprachkurs-abend",
+    "title": "Evening Language Class",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "272",
+    "slug": "wasserknappheit",
+    "title": "Water Scarcity: A Growing Crisis",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "273",
+    "slug": "sauna-tradition",
+    "title": "The Sauna Culture in Germany",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "274",
+    "slug": "kind-fragt-nach-tod",
+    "title": "When Children Ask About Death",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "275",
+    "slug": "sozialer-abstieg",
+    "title": "Falling Through the Cracks",
+    "level": "B2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "276",
+    "slug": "fluss-gedicht",
+    "title": "The River — A Poem",
+    "level": "B1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "277",
+    "slug": "kuchen-baeckerei-tradition",
+    "title": "The Tradition of Sunday Cake",
+    "level": "A2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "278",
+    "slug": "radfahren-sicher",
+    "title": "Cycling Safely in the City",
+    "level": "A2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "279",
+    "slug": "auslands-erfahrung",
+    "title": "What Living Abroad Taught Me",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "280",
+    "slug": "menschenwuerde",
+    "title": "Human Dignity: Article 1 of the Constitution",
+    "level": "B2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "281",
+    "slug": "wohnungssuche-berlin",
+    "title": "Flat Hunting in Berlin",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "282",
+    "slug": "botanischer-garten",
+    "title": "An Afternoon in the Botanical Garden",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "283",
+    "slug": "rente-zu-wenig",
+    "title": "When the Pension Is Not Enough",
+    "level": "B2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "284",
+    "slug": "umzug-von-zu-hause",
+    "title": "Leaving Home for University",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "285",
+    "slug": "ki-und-kreativitaet",
+    "title": "Can AI Be Creative?",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "286",
+    "slug": "schulkind-erstertag",
+    "title": "The First Day of School",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "287",
+    "slug": "zeitungen-sterben",
+    "title": "The Death of Print Newspapers",
+    "level": "B1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "288",
+    "slug": "gedicht-hoffnung",
+    "title": "Hope — A Poem",
+    "level": "A2",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "289",
+    "slug": "nebenjob-student",
+    "title": "Working a Side Job as a Student",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "290",
+    "slug": "heimat-neue-sprache",
+    "title": "Home in a New Language",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "291",
+    "slug": "geburtstagsbrief",
+    "title": "A Birthday Letter to Myself",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "292",
+    "slug": "sprachreise-england",
+    "title": "Language Holiday in England",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "293",
+    "slug": "sternschnuppe",
+    "title": "Shooting Stars — A Poem",
+    "level": "A2",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "294",
+    "slug": "handy-sucht",
+    "title": "Smartphone Addiction",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "295",
+    "slug": "essen-teilen",
+    "title": "Sharing Food, Sharing Life",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "296",
+    "slug": "erste-eigene-wohnung",
+    "title": "My First Apartment",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "297",
+    "slug": "der-alte-markt",
+    "title": "The Old Market",
+    "level": "A2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "298",
+    "slug": "fernweh-island",
+    "title": "Wanderlust: Iceland",
+    "level": "B2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "299",
+    "slug": "das-letzte-stueck-kuchen",
+    "title": "The Last Piece of Cake",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "300",
+    "slug": "klimawandel-einfach-erklaert",
+    "title": "Climate Change Simply Explained",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "301",
+    "slug": "schneemann",
+    "title": "The Snowman",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "302",
+    "slug": "die-pruefung",
+    "title": "The Exam",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "303",
+    "slug": "berliner-mauer-geschichte",
+    "title": "The Berlin Wall: A Short History",
+    "level": "B2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "304",
+    "slug": "morgenroutine",
+    "title": "My Morning Routine",
+    "level": "A1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "305",
+    "slug": "herbstgedicht",
+    "title": "Autumn Poem",
+    "level": "A2",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "306",
+    "slug": "kaffeepause",
+    "title": "The Coffee Break",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "307",
+    "slug": "schwarzwald-wanderung",
+    "title": "Hiking in the Black Forest",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "308",
+    "slug": "kuenstliche-intelligenz-alltag",
+    "title": "AI in Everyday Life",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "309",
+    "slug": "grossmutters-rezept",
+    "title": "Grandma's Recipe",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "310",
+    "slug": "fahrrad-stadt",
+    "title": "Cycling in the City",
+    "level": "A2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "311",
+    "slug": "stille-nacht",
+    "title": "Silent Night",
+    "level": "A2",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "312",
+    "slug": "deutsch-lernen-warum",
+    "title": "Why I Started Learning German",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "313",
+    "slug": "tier-des-jahres",
+    "title": "Animal of the Year",
+    "level": "A2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "314",
+    "slug": "der-neue-kollege",
+    "title": "The New Colleague",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "315",
+    "slug": "das-schloss-neuschwanstein",
+    "title": "Neuschwanstein Castle",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "316",
+    "slug": "vegane-ernaehrung",
+    "title": "Going Vegan for a Month",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "317",
+    "slug": "zug-nach-hamburg",
+    "title": "Train to Hamburg",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "318",
+    "slug": "lernsprachen-gehirn",
+    "title": "What Language Learning Does to Your Brain",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "319",
+    "slug": "stadtpark-sommer",
+    "title": "Summer in the City Park",
+    "level": "A1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "320",
+    "slug": "fremde-sprache-traum",
+    "title": "Dreaming in a Foreign Language",
+    "level": "B2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "321",
+    "slug": "weihnachtsmarkt",
+    "title": "The Christmas Market",
+    "level": "A2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "322",
+    "slug": "interview-mit-einer-aerztin",
+    "title": "Interview with a Doctor",
+    "level": "B1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "323",
+    "slug": "heimweh",
+    "title": "Homesickness",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "324",
+    "slug": "regen-gedicht",
+    "title": "Rain Poem",
+    "level": "A2",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "325",
+    "slug": "oktoberfest",
+    "title": "The Oktoberfest",
+    "level": "A2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "326",
+    "slug": "strom-aus-wind",
+    "title": "Electricity from Wind",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "327",
+    "slug": "mein-hund-rex",
+    "title": "My Dog Rex",
+    "level": "A1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "328",
+    "slug": "neuer-job-neue-chancen",
+    "title": "New Job, New Chances",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "329",
+    "slug": "das-erste-mal-skifahren",
+    "title": "Skiing for the First Time",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "330",
+    "slug": "die-biene",
+    "title": "The Bee",
+    "level": "A2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "331",
+    "slug": "wohnen-auf-dem-land",
+    "title": "Living in the Countryside",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "332",
+    "slug": "die-gabe-des-zuhoerens",
+    "title": "The Gift of Listening",
+    "level": "B2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "333",
+    "slug": "die-deutsche-sprache-und-ihre-besonderheiten",
+    "title": "The German Language and Its Peculiarities",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "334",
+    "slug": "brief-an-mich-selbst",
+    "title": "Letter to My Younger Self",
+    "level": "B2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "335",
+    "slug": "das-cafe-am-see",
+    "title": "The Café by the Lake",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "336",
+    "slug": "die-philosophie-des-gehens",
+    "title": "The Philosophy of Walking",
+    "level": "C1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "337",
+    "slug": "post-aus-portugal",
+    "title": "Letter from Portugal",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "338",
+    "slug": "die-farben-des-meeres",
+    "title": "The Colours of the Sea",
+    "level": "A2",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "339",
+    "slug": "soziale-medien-und-selbstbild",
+    "title": "Social Media and Self-Image",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "340",
+    "slug": "die-alte-bibliothek",
+    "title": "The Old Library",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "341",
+    "slug": "grossstadt-einsamkeit",
+    "title": "Loneliness in the Big City",
+    "level": "B2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "342",
+    "slug": "wintermorgen",
+    "title": "Winter Morning",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "343",
+    "slug": "yoga-erfahrung",
+    "title": "My First Yoga Experience",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "344",
+    "slug": "der-stille-morgen",
+    "title": "The Quiet Morning",
+    "level": "A2",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "345",
+    "slug": "hamburger-hafen",
+    "title": "The Port of Hamburg",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "346",
+    "slug": "die-erste-woche-im-ausland",
+    "title": "The First Week Abroad",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "347",
+    "slug": "erster-schultag",
+    "title": "The First Day of School",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "348",
+    "slug": "schreiben-als-therapie",
+    "title": "Writing as Therapy",
+    "level": "B2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "349",
+    "slug": "reise-nach-prag",
+    "title": "Trip to Prague",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "350",
+    "slug": "die-kraft-der-gewohnheit",
+    "title": "The Power of Habit",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "351",
+    "slug": "mein-lieblingsplatz",
+    "title": "My Favourite Place",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "352",
+    "slug": "die-goethe-strasse",
+    "title": "Goethe Street",
+    "level": "C1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "353",
+    "slug": "kafka-und-die-moderne",
+    "title": "Kafka and Modernity",
+    "level": "C1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "354",
+    "slug": "sprachpolitik-europa",
+    "title": "Language Policy in Europe",
+    "level": "C1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "355",
+    "slug": "stille-revolutionen",
+    "title": "Silent Revolutions",
+    "level": "C1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "356",
+    "slug": "die-luege-des-multitasking",
+    "title": "The Lie of Multitasking",
+    "level": "C1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "357",
+    "slug": "beethovens-neunte",
+    "title": "Beethoven's Ninth",
+    "level": "C1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "358",
+    "slug": "was-bleibt-nach-dem-tod",
+    "title": "What Remains After Death",
+    "level": "C2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "359",
+    "slug": "sprache-macht-realitaet",
+    "title": "Language Shapes Reality",
+    "level": "C2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "360",
+    "slug": "freiheit-und-verantwortung",
+    "title": "Freedom and Responsibility",
+    "level": "C2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "361",
+    "slug": "der-unsichtbare-dritte",
+    "title": "The Invisible Third",
+    "level": "C1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "362",
+    "slug": "grenzen-der-wissenschaft",
+    "title": "The Limits of Science",
+    "level": "C2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "363",
+    "slug": "die-stunde-zwischen-nacht-und-tag",
+    "title": "The Hour Between Night and Day",
+    "level": "C1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "364",
+    "slug": "die-neue-strassenbahn",
+    "title": "The New Tram Line",
+    "level": "A2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "365",
+    "slug": "tiere-in-der-stadt",
+    "title": "Animals in the City",
+    "level": "A2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "366",
+    "slug": "das-schweigen-der-vaeter",
+    "title": "The Silence of Fathers",
+    "level": "C1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "367",
+    "slug": "supermarkt-samstag",
+    "title": "Saturday at the Supermarket",
+    "level": "A1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "368",
+    "slug": "der-marathon",
+    "title": "Running a Marathon",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "369",
+    "slug": "die-post",
+    "title": "The Post Office",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "370",
+    "slug": "der-traum-vom-fliegen",
+    "title": "The Dream of Flying",
+    "level": "B2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "371",
+    "slug": "zeitungslesen-mit-opa",
+    "title": "Reading the Paper with Grandpa",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "372",
+    "slug": "die-kunst-der-entschuldigung",
+    "title": "The Art of Apologising",
+    "level": "B2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "373",
+    "slug": "der-erste-auslandsauftritt",
+    "title": "The First Gig Abroad",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "374",
+    "slug": "vergaenglichkeit",
+    "title": "Impermanence",
+    "level": "C2",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "375",
+    "slug": "einkaufen-in-der-altstadt",
+    "title": "Shopping in the Old Town",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "376",
+    "slug": "interview-kuenstlerin",
+    "title": "Interview with an Artist",
+    "level": "B2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "377",
+    "slug": "die-schoenheit-des-scheiterns",
+    "title": "The Beauty of Failure",
+    "level": "C1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "378",
+    "slug": "brot-backen",
+    "title": "Baking Bread",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "379",
+    "slug": "die-deutschen-und-der-wald",
+    "title": "Germans and the Forest",
+    "level": "B2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "380",
+    "slug": "arzt-besuch",
+    "title": "A Doctor's Appointment",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "381",
+    "slug": "die-grosse-hitze",
+    "title": "The Great Heat",
+    "level": "B1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "382",
+    "slug": "warum-wir-weinen",
+    "title": "Why We Cry",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "383",
+    "slug": "meine-grosseltern-haus",
+    "title": "My Grandparents' House",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "384",
+    "slug": "die-zwei-seiten-der-digitalisierung",
+    "title": "Two Sides of Digitalisation",
+    "level": "B1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "385",
+    "slug": "maerchen-rotkappchen",
+    "title": "Little Red Riding Hood (Retold)",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "386",
+    "slug": "das-mikrophon-und-die-angst",
+    "title": "The Microphone and the Fear",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "387",
+    "slug": "philosophie-des-alterns",
+    "title": "Philosophy of Ageing",
+    "level": "C1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "388",
+    "slug": "mein-erster-zug",
+    "title": "My First Train Journey",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "389",
+    "slug": "die-farbe-schwarz",
+    "title": "The Colour Black",
+    "level": "B2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "390",
+    "slug": "schnell-kochen-fuer-anfaenger",
+    "title": "Quick Cooking for Beginners",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "391",
+    "slug": "auf-dem-bauernhof",
+    "title": "On the Farm",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "392",
+    "slug": "meisterwerk",
+    "title": "Masterpiece",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "393",
+    "slug": "schlaf-und-gesundheit",
+    "title": "Sleep and Health",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "394",
+    "slug": "der-strom-faellt-aus",
+    "title": "The Power Goes Out",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "395",
+    "slug": "rhetorik-und-macht",
+    "title": "Rhetoric and Power",
+    "level": "C1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "396",
+    "slug": "stadtgeraeusche",
+    "title": "City Sounds",
+    "level": "B1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "397",
+    "slug": "die-gruene-welle",
+    "title": "The Green Wave",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "398",
+    "slug": "eine-nacht-im-zelt",
+    "title": "One Night in a Tent",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "399",
+    "slug": "der-letzte-brief",
+    "title": "The Last Letter",
+    "level": "B2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "400",
+    "slug": "vierhundert",
+    "title": "Four Hundred",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "401",
+    "slug": "das-glueck-der-kleinen-dinge",
+    "title": "The Joy of Small Things",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "402",
+    "slug": "der-schwarze-schwan",
+    "title": "The Black Swan",
+    "level": "C1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "403",
+    "slug": "mein-nachbar-herr-braun",
+    "title": "My Neighbour Mr Braun",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "404",
+    "slug": "das-vergessen-des-koerpers",
+    "title": "Forgetting the Body",
+    "level": "C2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "405",
+    "slug": "wien-kaffeehaus",
+    "title": "The Viennese Coffee House",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "406",
+    "slug": "im-gebirge",
+    "title": "In the Mountains",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "407",
+    "slug": "konstruktiver-journalismus",
+    "title": "Constructive Journalism",
+    "level": "C1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "408",
+    "slug": "der-erste-kuss",
+    "title": "The First Kiss",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "409",
+    "slug": "feuer-und-flamme",
+    "title": "Fired Up",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "410",
+    "slug": "der-geruch-von-regen",
+    "title": "The Smell of Rain",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "411",
+    "slug": "die-philosophin",
+    "title": "The Philosopher",
+    "level": "C1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "412",
+    "slug": "kleinstaedte-sterben",
+    "title": "Small Towns Are Dying",
+    "level": "B2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "413",
+    "slug": "wasser-trinken",
+    "title": "Drink More Water",
+    "level": "A1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "414",
+    "slug": "das-oekosystem-des-waldes",
+    "title": "The Forest Ecosystem",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "415",
+    "slug": "die-schwierigkeit-des-anfangens",
+    "title": "The Difficulty of Starting",
+    "level": "B2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "416",
+    "slug": "der-abend-vor-der-reise",
+    "title": "The Evening Before the Journey",
+    "level": "B1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "417",
+    "slug": "roboter-in-der-pflege",
+    "title": "Robots in Care",
+    "level": "C1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "418",
+    "slug": "lernen-durch-fehler",
+    "title": "Learning Through Mistakes",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "419",
+    "slug": "der-letzte-zug",
+    "title": "The Last Train",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "420",
+    "slug": "quantenphysik-fuer-neugierige",
+    "title": "Quantum Physics for the Curious",
+    "level": "C2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "421",
+    "slug": "geschwister",
+    "title": "Siblings",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "422",
+    "slug": "das-konzert-im-regen",
+    "title": "The Concert in the Rain",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "423",
+    "slug": "oekologischer-fussabdruck",
+    "title": "Your Ecological Footprint",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "424",
+    "slug": "auf-wiedersehen-oma",
+    "title": "Goodbye, Grandma",
+    "level": "B2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "425",
+    "slug": "brotkultur-deutschland",
+    "title": "Bread Culture in Germany",
+    "level": "A2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "426",
+    "slug": "das-grosse-schweigen",
+    "title": "The Great Silence",
+    "level": "C2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "427",
+    "slug": "das-wort-des-jahres",
+    "title": "Word of the Year",
+    "level": "B1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "428",
+    "slug": "die-kunst-des-nein-sagens",
+    "title": "The Art of Saying No",
+    "level": "B2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "429",
+    "slug": "die-glocken-von-koeln",
+    "title": "The Bells of Cologne",
+    "level": "A2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "430",
+    "slug": "die-sprache-der-haende",
+    "title": "The Language of Hands",
+    "level": "C1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "431",
+    "slug": "schwimmen-als-erwachsener",
+    "title": "Swimming as an Adult",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "432",
+    "slug": "die-unsichtbare-arbeit",
+    "title": "The Invisible Work",
+    "level": "B2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "433",
+    "slug": "mondnacht-eichendorff",
+    "title": "Moonlit Night (after Eichendorff)",
+    "level": "C1",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "434",
+    "slug": "gartenarbeit",
+    "title": "Working in the Garden",
+    "level": "A1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "435",
+    "slug": "die-mittagspause",
+    "title": "The Lunch Break",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "436",
+    "slug": "das-ende-des-bargelds",
+    "title": "The End of Cash",
+    "level": "B1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "437",
+    "slug": "der-wolf-kehrt-zurueck",
+    "title": "The Wolf Returns",
+    "level": "B2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "438",
+    "slug": "die-fremdsprache-im-kopf",
+    "title": "The Foreign Language in Your Head",
+    "level": "C1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "439",
+    "slug": "haustiere-und-einsamkeit",
+    "title": "Pets and Loneliness",
+    "level": "B1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "440",
+    "slug": "das-wunder-der-erinnerung",
+    "title": "The Wonder of Memory",
+    "level": "C2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "441",
+    "slug": "die-sonnenseite",
+    "title": "The Sunny Side",
+    "level": "A2",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "442",
+    "slug": "die-freude-am-kochen",
+    "title": "The Joy of Cooking",
+    "level": "B1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "443",
+    "slug": "nacht-im-krankenhaus",
+    "title": "Night in the Hospital",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "444",
+    "slug": "was-bedeutet-heimat",
+    "title": "What Does Heimat Mean?",
+    "level": "C1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "445",
+    "slug": "kinder-und-bildschirmzeit",
+    "title": "Children and Screen Time",
+    "level": "B1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "446",
+    "slug": "die-erste-wohnung-dekorieren",
+    "title": "Decorating Your First Flat",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "447",
+    "slug": "die-zeitkapsel",
+    "title": "The Time Capsule",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "448",
+    "slug": "das-plastikproblem",
+    "title": "The Plastic Problem",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "449",
+    "slug": "vergessen-als-segen",
+    "title": "Forgetting as a Blessing",
+    "level": "C1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "450",
+    "slug": "die-erste-olympiade",
+    "title": "The First Olympics",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "451",
+    "slug": "das-schreiben-eines-gedichts",
+    "title": "Writing a Poem",
+    "level": "B2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "452",
+    "slug": "koenig-ludwig-ii",
+    "title": "King Ludwig II",
+    "level": "B2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "453",
+    "slug": "vater-und-sohn",
+    "title": "Father and Son",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "454",
+    "slug": "das-prinzip-genug",
+    "title": "The Principle of Enough",
+    "level": "C2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "455",
+    "slug": "die-nacht-vor-weihnachten",
+    "title": "Christmas Eve",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "456",
+    "slug": "die-kunst-des-wartens",
+    "title": "The Art of Waiting",
+    "level": "B2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "457",
+    "slug": "warum-ich-deutsch-mag",
+    "title": "Why I Like German",
+    "level": "A2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "458",
+    "slug": "die-letzte-seite",
+    "title": "The Last Page",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "459",
+    "slug": "die-schwarze-tafel",
+    "title": "The Blackboard",
+    "level": "A1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "460",
+    "slug": "gesellschaft-ohne-mittelschicht",
+    "title": "Society Without a Middle Class",
+    "level": "C2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "461",
+    "slug": "meerblick",
+    "title": "Sea View",
+    "level": "A2",
+    "category": "poem",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "462",
+    "slug": "der-schweizer-zug",
+    "title": "The Swiss Train",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "463",
+    "slug": "das-ende-der-arbeit",
+    "title": "The End of Work",
+    "level": "C1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "464",
+    "slug": "die-erste-eigene-entscheidung",
+    "title": "The First Independent Decision",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "465",
+    "slug": "tintenfisch-intelligenz",
+    "title": "Octopus Intelligence",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "466",
+    "slug": "das-erste-auto",
+    "title": "The First Car",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "467",
+    "slug": "die-philosophie-des-theaters",
+    "title": "The Philosophy of Theatre",
+    "level": "C1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "468",
+    "slug": "schwarze-loecher",
+    "title": "Black Holes",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "469",
+    "slug": "mein-erster-schultag",
+    "title": "My First Day of School",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "470",
+    "slug": "das-paradox-der-freiheit",
+    "title": "The Paradox of Freedom",
+    "level": "C2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "471",
+    "slug": "eine-reise-nach-hamburg",
+    "title": "A Trip to Hamburg",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "472",
+    "slug": "klimawandel-und-migration",
+    "title": "Climate Change and Migration",
+    "level": "C1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "473",
+    "slug": "das-oktoberfest",
+    "title": "Oktoberfest",
+    "level": "A2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "474",
+    "slug": "introversion-in-einer-extrovertieren-welt",
+    "title": "Introversion in an Extroverted World",
+    "level": "B2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "475",
+    "slug": "quantenverschraenkung",
+    "title": "Quantum Entanglement",
+    "level": "C2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "476",
+    "slug": "der-verlorene-schluessel",
+    "title": "The Lost Key",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "477",
+    "slug": "walter-benjamin-und-das-flanieren",
+    "title": "Walter Benjamin and the Art of Wandering",
+    "level": "C1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "478",
+    "slug": "ein-tag-am-see",
+    "title": "A Day at the Lake",
+    "level": "A2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "479",
+    "slug": "die-zukunft-der-demokratie",
+    "title": "The Future of Democracy",
+    "level": "B2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "480",
+    "slug": "heideggers-dasein",
+    "title": "Heidegger's Concept of Dasein",
+    "level": "C2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "481",
+    "slug": "die-alte-uhr",
+    "title": "The Old Clock",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "482",
+    "slug": "der-samstagmarkt",
+    "title": "The Saturday Market",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "483",
+    "slug": "das-mikrobiom",
+    "title": "The Human Microbiome",
+    "level": "C1",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "484",
+    "slug": "zwischen-zwei-kulturen",
+    "title": "Between Two Cultures",
+    "level": "B2",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "485",
+    "slug": "nihilismus-und-sinngebung",
+    "title": "Nihilism and the Search for Meaning",
+    "level": "C2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "486",
+    "slug": "berliner-clubkultur",
+    "title": "Berlin Club Culture",
+    "level": "B1",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "487",
+    "slug": "der-neue-buergermeister",
+    "title": "The New Mayor",
+    "level": "A2",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "488",
+    "slug": "sprache-als-macht",
+    "title": "Language as Power",
+    "level": "C1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "489",
+    "slug": "epigenetik",
+    "title": "Epigenetics",
+    "level": "B2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "490",
+    "slug": "fernweh-im-winter",
+    "title": "Wanderlust in Winter",
+    "level": "B1",
+    "category": "journal",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "491",
+    "slug": "das-erhabene-in-der-romantik",
+    "title": "The Sublime in Romanticism",
+    "level": "C2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "492",
+    "slug": "der-regentag",
+    "title": "The Rainy Day",
+    "level": "A2",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "493",
+    "slug": "globalisierung-und-identitaet",
+    "title": "Globalisation and Identity",
+    "level": "C1",
+    "category": "news",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "494",
+    "slug": "minimalismus-als-lebensstil",
+    "title": "Minimalism as a Lifestyle",
+    "level": "B2",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "495",
+    "slug": "das-konzert",
+    "title": "The Concert",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "496",
+    "slug": "das-fermi-paradox",
+    "title": "The Fermi Paradox",
+    "level": "C2",
+    "category": "science",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "497",
+    "slug": "weihnachten-in-deutschland",
+    "title": "Christmas in Germany",
+    "level": "A2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "498",
+    "slug": "die-grenzen-des-wissens",
+    "title": "The Limits of Knowledge",
+    "level": "C1",
+    "category": "blog",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "499",
+    "slug": "deutscher-expressionismus",
+    "title": "German Expressionism",
+    "level": "B2",
+    "category": "culture",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  },
+  {
+    "id": "500",
+    "slug": "fuenfhundert",
+    "title": "Five Hundred",
+    "level": "B1",
+    "category": "story",
+    "sentenceCount": 6,
+    "vocabCount": 5
+  }
+]

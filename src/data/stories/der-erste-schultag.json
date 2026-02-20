@@ -1,0 +1,25 @@
+{
+  "id": "2",
+  "slug": "der-erste-schultag",
+  "title": "The First Day of School",
+  "level": "A1",
+  "category": "story",
+  "sentences": [
+    { "de": "Heute ist Lenas erster Schultag.", "en": "Today is Lena's first day of school." },
+    { "de": "Sie steht früh auf und zieht ihre neue Kleidung an.", "en": "She gets up early and puts on her new clothes." },
+    { "de": "Die Schule ist nicht weit von zu Hause.", "en": "The school is not far from home." },
+    { "de": "Lena trifft ihre neue Lehrerin, Frau Müller.", "en": "Lena meets her new teacher, Mrs. Müller." },
+    { "de": "Die Klasse hat zwanzig Kinder.", "en": "The class has twenty children." },
+    { "de": "Lena sitzt neben einem Mädchen namens Anna.", "en": "Lena sits next to a girl named Anna." },
+    { "de": "Am Ende des Tages ist Lena müde, aber glücklich.", "en": "At the end of the day, Lena is tired but happy." }
+  ],
+  "vocabulary": [
+    { "word": "der Schultag", "article": "der", "type": "noun", "level": "A1", "meaning": "school day" },
+    { "word": "früh", "type": "adverb", "level": "A1", "meaning": "early" },
+    { "word": "aufstehen", "type": "verb", "level": "A1", "meaning": "to get up, to stand up" },
+    { "word": "die Lehrerin", "article": "die", "type": "noun", "level": "A1", "meaning": "female teacher" },
+    { "word": "neben", "type": "preposition", "level": "A1", "meaning": "next to, beside" },
+    { "word": "müde", "type": "adjective", "level": "A1", "meaning": "tired" },
+    { "word": "glücklich", "type": "adjective", "level": "A1", "meaning": "happy" }
+  ]
+}

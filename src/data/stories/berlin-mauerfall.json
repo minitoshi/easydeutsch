@@ -1,0 +1,24 @@
+{
+  "id": "11",
+  "slug": "berlin-mauerfall",
+  "title": "The Fall of the Berlin Wall: A Historic Night",
+  "level": "B1",
+  "category": "culture",
+  "sentences": [
+    { "de": "Am 9. November 1989 fiel die Berliner Mauer.", "en": "On 9 November 1989, the Berlin Wall fell." },
+    { "de": "Jahrelang hatte die Mauer Ost- und Westberlin getrennt.", "en": "For years the wall had separated East and West Berlin." },
+    { "de": "Als die Nachricht verbreitet wurde, strömten Tausende Menschen zu den Grenzübergängen.", "en": "When the news spread, thousands of people flocked to the border crossings." },
+    { "de": "Die Grenzsoldaten ließen die Menschen passieren, ohne zu schießen.", "en": "The border guards let the people through without shooting." },
+    { "de": "Menschen weinten, umarmten sich und tanzten auf der Mauer.", "en": "People wept, hugged each other and danced on the wall." },
+    { "de": "Dieser Abend veränderte Deutschland und die ganze Welt für immer.", "en": "That evening changed Germany and the whole world forever." }
+  ],
+  "vocabulary": [
+    { "word": "die Mauer", "article": "die", "type": "noun", "level": "A2", "meaning": "wall" },
+    { "word": "trennen", "type": "verb", "level": "A2", "meaning": "to separate, to divide" },
+    { "word": "sich verbreiten", "type": "verb", "level": "B1", "meaning": "to spread" },
+    { "word": "strömen", "type": "verb", "level": "B1", "meaning": "to stream, to flood, to flock" },
+    { "word": "der Grenzübergang", "article": "der", "type": "noun", "level": "B1", "meaning": "border crossing" },
+    { "word": "umarmen", "type": "verb", "level": "A2", "meaning": "to hug, to embrace" },
+    { "word": "verändern", "type": "verb", "level": "A2", "meaning": "to change, to alter" }
+  ]
+}

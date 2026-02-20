@@ -1,0 +1,23 @@
+{
+  "id": "6",
+  "slug": "elektroautos-in-deutschland",
+  "title": "Electric Cars: Germany's Green Future",
+  "level": "A2",
+  "category": "news",
+  "sentences": [
+    { "de": "Immer mehr Menschen in Deutschland kaufen Elektroautos.", "en": "More and more people in Germany are buying electric cars." },
+    { "de": "Die Bundesregierung möchte, dass bis 2030 zehn Millionen Elektroautos auf den Straßen fahren.", "en": "The federal government wants ten million electric cars on the roads by 2030." },
+    { "de": "Viele Städte bauen neue Ladestationen für die Autos.", "en": "Many cities are building new charging stations for the cars." },
+    { "de": "Ein Elektroauto kostet aber noch viel Geld.", "en": "However, an electric car still costs a lot of money." },
+    { "de": "Der Staat gibt deshalb Geld zurück, wenn man ein Elektroauto kauft.", "en": "Therefore, the state gives money back when you buy an electric car." },
+    { "de": "Experten sagen, dass Elektroautos gut für die Umwelt sind.", "en": "Experts say that electric cars are good for the environment." }
+  ],
+  "vocabulary": [
+    { "word": "das Elektroauto", "article": "das", "type": "noun", "level": "A2", "meaning": "electric car" },
+    { "word": "die Bundesregierung", "article": "die", "type": "noun", "level": "B1", "meaning": "federal government" },
+    { "word": "die Ladestation", "article": "die", "type": "noun", "level": "B1", "meaning": "charging station" },
+    { "word": "deshalb", "type": "adverb", "level": "A2", "meaning": "therefore, that is why" },
+    { "word": "die Umwelt", "article": "die", "type": "noun", "level": "A2", "meaning": "environment" },
+    { "word": "immer mehr", "type": "expression", "level": "A2", "meaning": "more and more" }
+  ]
+}

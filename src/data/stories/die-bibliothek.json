@@ -1,0 +1,23 @@
+{
+  "id": "17",
+  "slug": "die-bibliothek",
+  "title": "The Magic of the Library",
+  "level": "A2",
+  "category": "story",
+  "sentences": [
+    { "de": "Jonas geht jeden Samstag in die Stadtbibliothek.", "en": "Jonas goes to the city library every Saturday." },
+    { "de": "Er liebt den Geruch von alten Büchern.", "en": "He loves the smell of old books." },
+    { "de": "Die Bibliothekarin, Frau Koch, kennt Jonas schon lange.", "en": "The librarian, Mrs Koch, has known Jonas for a long time." },
+    { "de": "Sie empfiehlt ihm immer interessante neue Bücher.", "en": "She always recommends interesting new books to him." },
+    { "de": "Jonas kann stundenlang zwischen den Regalen sitzen und lesen.", "en": "Jonas can sit between the shelves and read for hours." },
+    { "de": "In der Bibliothek vergisst er alle seine Sorgen.", "en": "In the library he forgets all his worries." }
+  ],
+  "vocabulary": [
+    { "word": "die Bibliothek", "article": "die", "type": "noun", "level": "A1", "meaning": "library" },
+    { "word": "der Geruch", "article": "der", "type": "noun", "level": "B1", "meaning": "smell, scent" },
+    { "word": "die Bibliothekarin", "article": "die", "type": "noun", "level": "A2", "meaning": "female librarian" },
+    { "word": "empfehlen", "type": "verb", "level": "A2", "meaning": "to recommend" },
+    { "word": "das Regal", "article": "das", "type": "noun", "level": "A2", "meaning": "shelf, bookcase" },
+    { "word": "die Sorge", "article": "die", "type": "noun", "level": "A2", "meaning": "worry, concern" }
+  ]
+}

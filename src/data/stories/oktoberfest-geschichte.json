@@ -1,0 +1,24 @@
+{
+  "id": "10",
+  "slug": "oktoberfest-geschichte",
+  "title": "The History of Oktoberfest",
+  "level": "A2",
+  "category": "culture",
+  "sentences": [
+    { "de": "Das Oktoberfest ist das größte Volksfest der Welt.", "en": "Oktoberfest is the largest folk festival in the world." },
+    { "de": "Es findet jedes Jahr in München statt.", "en": "It takes place every year in Munich." },
+    { "de": "Das erste Oktoberfest war im Jahr 1810.", "en": "The first Oktoberfest was in 1810." },
+    { "de": "Damals feierte man die Hochzeit von Kronprinz Ludwig.", "en": "At that time people celebrated the wedding of Crown Prince Ludwig." },
+    { "de": "Heute kommen jedes Jahr etwa sechs Millionen Besucher.", "en": "Today about six million visitors come every year." },
+    { "de": "Sie trinken Bier in großen Maßkrügen und essen Brezeln und Bratwurst.", "en": "They drink beer in large one-litre mugs and eat pretzels and bratwurst." },
+    { "de": "Viele tragen dabei traditionelle Kleidung wie das Dirndl und die Lederhosen.", "en": "Many wear traditional clothing such as the dirndl and lederhosen." }
+  ],
+  "vocabulary": [
+    { "word": "das Volksfest", "article": "das", "type": "noun", "level": "A2", "meaning": "folk festival, funfair" },
+    { "word": "stattfinden", "type": "verb", "level": "A2", "meaning": "to take place, to occur" },
+    { "word": "feiern", "type": "verb", "level": "A1", "meaning": "to celebrate" },
+    { "word": "der Besucher", "article": "der", "type": "noun", "level": "A2", "meaning": "visitor" },
+    { "word": "der Maßkrug", "article": "der", "type": "noun", "level": "B1", "meaning": "one-litre beer mug" },
+    { "word": "traditionell", "type": "adjective", "level": "A2", "meaning": "traditional" }
+  ]
+}

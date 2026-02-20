@@ -1,0 +1,23 @@
+{
+  "id": "9",
+  "slug": "die-nacht-des-sturms",
+  "title": "The Night of the Storm",
+  "level": "B1",
+  "category": "story",
+  "sentences": [
+    { "de": "Es war kurz nach Mitternacht, als der Sturm über die Stadt fegte.", "en": "It was just after midnight when the storm swept over the city." },
+    { "de": "Erik lag wach in seinem Bett und lauschte dem Regen, der gegen das Fenster peitschte.", "en": "Erik lay awake in his bed listening to the rain lashing against the window." },
+    { "de": "Plötzlich hörte er ein seltsames Geräusch vom Dachboden.", "en": "Suddenly he heard a strange noise from the attic." },
+    { "de": "Mit klopfendem Herzen nahm er eine Taschenlampe und stieg die Treppe hinauf.", "en": "With a pounding heart he took a torch and climbed the stairs." },
+    { "de": "Dort fand er eine alte Katze, die durch ein kaputtes Fenster hereingekommen war.", "en": "There he found an old cat that had come in through a broken window." },
+    { "de": "Er lachte leise, brachte der Katze Milch und ließ sie für die Nacht bleiben.", "en": "He laughed quietly, brought the cat some milk and let her stay for the night." }
+  ],
+  "vocabulary": [
+    { "word": "fegen", "type": "verb", "level": "B1", "meaning": "to sweep, to blow (storm)" },
+    { "word": "lauschen", "type": "verb", "level": "B1", "meaning": "to listen (attentively)" },
+    { "word": "peitschen", "type": "verb", "level": "B2", "meaning": "to lash, to whip" },
+    { "word": "der Dachboden", "article": "der", "type": "noun", "level": "B1", "meaning": "attic" },
+    { "word": "klopfend", "type": "adjective", "level": "B1", "meaning": "pounding, knocking" },
+    { "word": "die Taschenlampe", "article": "die", "type": "noun", "level": "A2", "meaning": "torch, flashlight" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "12",
+  "slug": "der-stadtpark",
+  "title": "A Sunday Afternoon in the City Park",
+  "level": "A1",
+  "category": "blog",
+  "sentences": [
+    { "de": "Der Stadtpark ist groß und schön.", "en": "The city park is large and beautiful." },
+    { "de": "Viele Menschen kommen am Sonntag in den Park.", "en": "Many people come to the park on Sunday." },
+    { "de": "Kinder spielen auf dem Spielplatz.", "en": "Children play on the playground." },
+    { "de": "Hunde laufen frei und spielen im Gras.", "en": "Dogs run free and play in the grass." },
+    { "de": "Ein Mann liest ein Buch auf einer Bank.", "en": "A man reads a book on a bench." },
+    { "de": "Eine Frau joggt auf dem Weg.", "en": "A woman jogs on the path." },
+    { "de": "Im Park ist alles ruhig und friedlich.", "en": "In the park everything is quiet and peaceful." }
+  ],
+  "vocabulary": [
+    { "word": "der Park", "article": "der", "type": "noun", "level": "A1", "meaning": "park" },
+    { "word": "der Spielplatz", "article": "der", "type": "noun", "level": "A1", "meaning": "playground" },
+    { "word": "die Bank", "article": "die", "type": "noun", "level": "A1", "meaning": "bench (also: bank)" },
+    { "word": "joggen", "type": "verb", "level": "A1", "meaning": "to jog" },
+    { "word": "ruhig", "type": "adjective", "level": "A1", "meaning": "quiet, calm" },
+    { "word": "friedlich", "type": "adjective", "level": "A2", "meaning": "peaceful" }
+  ]
+}
